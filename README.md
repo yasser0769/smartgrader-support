@@ -1,4 +1,4 @@
-# المصحح الذكي — Support and privacy
+# المصحح الآلي — Support and privacy
 
 Static Arabic-first support and privacy pages for the iOS app.
 
